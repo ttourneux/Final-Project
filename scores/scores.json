@@ -1,0 +1,1 @@
+{"roc_auc_logistic regression_GS_Heart_Disease": 0.5272216099950875, "accurarcy_logistic regression_GS_Heart_Disease": 0.9170414792603698, "roc_auc_neural net_GS_Heart_Disease": 0.5, "accurarcy_neural net_GS_Heart_Disease": 0.9180409795102449, "roc_auc_support vector machine_GS_Heart_Disease": 0.5, "accurarcy_support vector machine_GS_Heart_Disease": 0.9180409795102449}
